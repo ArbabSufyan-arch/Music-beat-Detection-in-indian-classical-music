@@ -17,9 +17,12 @@ LSTM recurrent network  is used for as a training.
 ## Resources
 ### Dataset:
 #### Indian Classical Music Database: 
-o	Link to used dataset for training.
-o	Link to original datasets
-o	
+Three datasets where used
+Link to used dataset for training.
+Link to original datasets
+https://www.kaggle.com/datasets/pranav6670/tabla-taala-dataset
+
+
 ### Programming Language and Libraries:
 #### Python: 
 A popular choice for audio processing and machine learning tasks.
