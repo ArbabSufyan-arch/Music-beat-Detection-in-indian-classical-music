@@ -20,7 +20,9 @@ LSTM recurrent network  is used for as a training.
 Three datasets where used
 Link to used dataset for training.
 Link to original datasets
-https://www.kaggle.com/datasets/pranav6670/tabla-taala-dataset
+First dataset: 
+Second dataset: 
+Third Dataset: https://www.kaggle.com/datasets/pranav6670/tabla-taala-dataset
 
 
 ### Programming Language and Libraries:
@@ -28,4 +30,9 @@ https://www.kaggle.com/datasets/pranav6670/tabla-taala-dataset
 A popular choice for audio processing and machine learning tasks.
 #### Libraries: 
 The libraries used in this project are Librosa, NumPy, SciPy, TensorFlow, Keras, Spafe, Gammatone, and sklearn.
+### Other Tools and Applications
+Applications that are used to clean, remove vocals and edit audio are:
+ULtimate Vocal Remover and Wave Pad Sound Editor
+you can get Ultimate Vocal Remover From here:
 
+You can Get Wave Pad from here
