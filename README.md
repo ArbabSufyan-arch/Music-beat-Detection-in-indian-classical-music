@@ -7,7 +7,8 @@ This project aims to develop a model for detecting beats in Indian classical mus
 Extract relevant features from the audio signal, such as Mel-Frequency Cepstral Coefficients (MFCCs), Perceptual Linear Prediction (PLP), and Spectral Centroid.
 #### Link to signal processed files: 
 you can access the files here.
-Link here
+
+[Link here](https://drive.google.com/drive/folders/1CNzfsJo4Z225SaHzSnb8M-xclVlnjzIN?usp=drive_link)
 ### Deep learning Model:
 #### Long short Time Model: 
 LSTM recurrent network  is used for as a training.
@@ -20,8 +21,11 @@ LSTM recurrent network  is used for as a training.
 Three datasets where used
 Link to used dataset for training.
 Link to original datasets
-First dataset: 
-Second dataset: 
+
+First dataset: https://compmusic.upf.edu/hindustani-rhythm-dataset
+
+Second dataset: https://compmusic.upf.edu/carnatic-rhythm-dataset
+
 Third Dataset: https://www.kaggle.com/datasets/pranav6670/tabla-taala-dataset
 
 
@@ -32,7 +36,13 @@ A popular choice for audio processing and machine learning tasks.
 The libraries used in this project are Librosa, NumPy, SciPy, TensorFlow, Keras, Spafe, Gammatone, and sklearn.
 ### Other Tools and Applications
 Applications that are used to clean, remove vocals and edit audio are:
-ULtimate Vocal Remover and Wave Pad Sound Editor
+ULtimate Vocal Remover by Anjok07 and Wave Pad Sound Editor by NCH Suite
 you can get Ultimate Vocal Remover From here:
 
+https://ultimatevocalremover.com/
+
+https://github.com/Anjok07/ultimatevocalremovergui
+
 You can Get Wave Pad from here
+
+https://www.nch.com.au/wavepad/index.html
