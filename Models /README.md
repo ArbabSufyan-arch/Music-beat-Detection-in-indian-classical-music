@@ -2,7 +2,8 @@ This folder conatains all the model that were trained.
 Each model is safed in two formats  for better convenience
 
 ## Static Features
-AE: stand for Amplitude Envelope it contains model that trained with Amplitude Envelope.
+#### AE: 
+stand for Amplitude Envelope it contains model that trained with Amplitude Envelope.
 
 #### ZCR: 
 stand for Zero-Crossing Rate. it contains model that trained with Zero-Crossing Rate.
