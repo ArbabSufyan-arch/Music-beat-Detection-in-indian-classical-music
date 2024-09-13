@@ -1,6 +1,7 @@
 # Music-beat-Detection-in-indian-classical-music
 ## Project Overview
 This project aims to develop a model for detecting beats in Indian classical music. Indian classical music has unique rhythmic structures and tempo variations, making beat detection a challenging task. The proposed system will leverage advanced signal processing techniques to extract relevant features from the audio signal and accurately identify the underlying beat pattern.
+The beats specified for this project are Adital, Ektal, Jhaptal, Rupaktal and Teental.
 ## Technical Approach
 ### Audio Preprocessing:
 #### Feature Extraction: 
