@@ -5,7 +5,7 @@ The beats specified for this project are Adital, Ektal, Jhaptal, Rupaktal and Te
 ## Technical Approach
 ### Audio Preprocessing:
 #### Feature Extraction: 
-Extract relevant features from the audio signal, such as Mel-Frequency Cepstral Coefficients (MFCCs), Perceptual Linear Prediction (PLP), and Spectral Centroid.
+Extract relevant features from the audio signal, such as Amplitude Envelope (AE), Zero-Crossing Rate (ZCR), Root Mean Square Energy (RMSE), Spectral Flux (SF), Spectral Centroid (SC), Spectral Bandwidth (SB), Band Energy Ratio  (BER), Mel-frequency Cepstral Coefficients (MFCC), Mel Spectrogram (Mel), Logarithm Mel Spectrogram (Log MEL), Generalized Mel-Frequency Cepstal Coefficients (GMCC), Gammatone Frequency Cepstral Coefficients (GFCC), Short Time Fourier Transform (STFT), And Non-Negative Matrix Factorization (NMF).
 #### Link to signal processed files: 
 you can access the files here.
 
