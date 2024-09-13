@@ -14,8 +14,10 @@ you can access the files here.
 #### Long short Time Model: 
 LSTM recurrent network  is used for as a training.
 ### Evaluation and Refinement:
-#### Dataset: Used dataset of Indian classical musics. The dataset were collected some by sites and some from youtubes.
-#### Metrics: Evaluate the performance of the algorithm using metrics by accuracy, precision, recall, and F1-score.
+#### Dataset: 
+Used dataset of Indian classical musics. The dataset were collected some by sites and some from youtubes.
+#### Metrics: 
+Evaluate the performance of the algorithm using metrics by accuracy, precision, recall, and F1-score.
 ## Resources
 ### Dataset:
 #### Indian Classical Music Database: 
