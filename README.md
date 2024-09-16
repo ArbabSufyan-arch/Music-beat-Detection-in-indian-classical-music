@@ -7,7 +7,7 @@ The beats specified for this project are Adital, Ektal, Jhaptal, Rupaktal and Te
 
 [Zahoor Ali](https://github.com/zahoorali1)
 
-[Arbab Sufyan Kasi]()
+[Arbab Sufyan Kasi](https://github.com/ArbabSufyan-arch)
 
 ## Technical Approach
 ### Audio Preprocessing:
